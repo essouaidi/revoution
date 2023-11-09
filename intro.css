@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@200;300;400;500;600;700;800&family=Roboto:wght@100;300;400&display=swap');
 
 :root {
-    --primary-color: #3AF3C2;
+    --primary-color: #ffaa00;
     --primary-dark: #1F252E;
 }
 
@@ -121,7 +121,7 @@ li a:hover {
     text-decoration: none;
     color: #3AF3C2;
     font-size: 1.5rem;
-    border: 1.6px solid #3AF3C2;
+    border: 1.6px solid #ffaa00;
     border-radius: 50%;
     padding: 0.39rem;
     text-align: center;
@@ -129,8 +129,8 @@ li a:hover {
 
 .social a:hover {
     color: #fff;
-    background-color: #3AF3C2;
-    box-shadow: 0 0 20px #3AF3C2;
+    background-color: #ffaa00;
+    box-shadow: 0 0 20px #ffaa00;
     transition: all .3s ease-in-out;
 }
 
